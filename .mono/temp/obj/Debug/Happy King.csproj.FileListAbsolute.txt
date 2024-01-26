@@ -1,0 +1,10 @@
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\bin\Debug\Happy King.dll
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\bin\Debug\Happy King.pdb
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.csproj.AssemblyReference.cache
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.AssemblyInfoInputs.cache
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.AssemblyInfo.cs
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.csproj.CoreCompileInputs.cache
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.sourcelink.json
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.dll
+C:\Users\todor\Documents\gamejam2024\happy_king\.mono\temp\obj\Debug\Happy King.pdb

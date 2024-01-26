@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IUQxpOvlDrngm5M/zQpxvHAg1cCAa20TObEba6cTbWsn1skTdko0xdEbV2sc0up5iw/caBnswee4kTOn/T4BgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\todor\\Documents\\gamejam2024\\happy_king\\Happy King.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\todor\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\todor\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

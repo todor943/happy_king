@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\todor\\Documents\\gamejam2024\\happy_king\\Happy King.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\todor\\Documents\\gamejam2024\\happy_king\\Happy King.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\todor\\Documents\\gamejam2024\\happy_king\\Happy King.csproj",
+        "projectName": "Happy King",
+        "projectPath": "C:\\Users\\todor\\Documents\\gamejam2024\\happy_king\\Happy King.csproj",
+        "packagesPath": "C:\\Users\\todor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\todor\\Documents\\gamejam2024\\happy_king\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\todor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
